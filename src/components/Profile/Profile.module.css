@@ -43,26 +43,3 @@
 .tag {
   margin-bottom: 10px;
 }
-
-.stats {
-  display: flex;
-  justify-content: center;
-}
-
-.statsItem {
-  display: flex;
-  flex-direction: column;
-
-  width: 100%;
-  padding: 20px;
-
-  border: 1px solid #85858547;
-  background-color: #b59fc640;
-}
-
-.quantity {
-  margin-top: 5px;
-
-  color: #000000;
-  font-weight: 700;
-}
